@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">EventHubProject</string>
+    <string name="EditProfile">Edit Profile</string>
+    <string name="FirstName">First Name</string>
+    <string name="MiddleName">Middle Name</string>
+    <string name="LastName">Last name</string>
+    <string name="JobTitle">Job Title</string>
+    <string name="Organization">Organization</string>
+    <string name="Country">Country</string>
+    <string name="Email">Email</string>
+    <string name="DateOfBirth">DateOfBirth</string>
+    <string name="Gender">Gender</string>
+    <string name="Female">Female</string>
+    <string name="Male">Male</string>
+    <string name="Update">Update</string>
+</resources>
